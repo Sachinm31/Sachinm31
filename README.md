@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sachin</h1>
+<h3 align="center">Backend-Focused Java Developer</h3>
+<p align="center">
+  Java Backend Developer • Spring Boot • REST APIs • JWT • MySQL
+</p>
 
-<!--
-**Sachinm31/Sachinm31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- Backend developer focused on building **secure and scalable REST APIs**
+- Hands-on experience with **Spring Boot, JWT Authentication, and MySQL**
+- Strong foundation in **Data Structures & Algorithms**
+- Familiar with frontend & scripting technologies for full-stack understanding
+- Actively preparing for **Java / Backend Developer / ASE roles**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Java (Core, OOP, Collections, Java 8+)
+- JavaScript
+- Python
+- SQL
+
+**Backend**
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security (JWT)
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+**Databases**
+- MySQL
+- MongoDB (basic)
+
+**Tools**
+- Git & GitHub
+- Docker (basic)
+- Maven
+- IntelliJ IDEA
+- Postman
+
+---
+
+### 📌 Featured Projects
+#### 🔹 CareerPath+ – Skill-Based Job Recommendation System
+- Developed REST APIs using **Spring Boot & JPA**
+- Implemented **JWT-based authentication and authorization**
+- Designed MySQL database schemas
+- Followed clean layered architecture (Controller → Service → Repository)
+
+#### 🔹 Smart Finance Tracker
+- Backend system for managing income, expenses, and budgets
+- Built with **Spring Boot, JWT, and MySQL**
+- Implemented scheduled background jobs
+- Practiced debugging, logging, and API testing
+
+---
+
+### 🔗 Coding & Professional Profiles
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sachinm31/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Sachinm3119/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F9F9F9?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/Sachinm31" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-F9F9F9?style=for-the-badge&logo=github&logoColor=181717"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/sachinr462" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/sachinm5657" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/Sachinm3119?theme=light" />
+</p>
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinm31&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinm31&layout=compact" height="150"/>
+</p>
+
+---
+
+📌 *Learning by building. Improving by debugging.*
