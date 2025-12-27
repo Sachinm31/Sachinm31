@@ -99,12 +99,15 @@
 </p>
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinm31&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinm31&layout=compact" height="150"/>
-</p>
 
 ---
 
+- **Name:** Sachin 
+- **Role:** Java Backend Developer | Spring Boot  
+- **Focus:** DSA, Scalable Backend Systems, Problem Solving  
+- **Currently Learning:** System Design, Advanced Java  
+- **Location:** India 🇮🇳  
+- **Email:** sachinkundapura31@gmail.com  
+
 📌 *Learning by building. Improving by debugging.*
+
