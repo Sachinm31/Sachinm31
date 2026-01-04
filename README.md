@@ -1,8 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">Backend-Focused Java Developer</h3>
-<p align="center">
-  Java Backend Developer • Spring Boot • REST APIs • JWT • MySQL
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:22c55e&height=235&section=header&text=Hi%20👋,%20I'm%20Sachin&fontSize=58&fontAlignY=36&desc=Backend%20Java%20Developer%20•%20Spring%20Boot%20•%20System%20Design&descAlignY=58&animation=fadeIn" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1600&color=15803D&center=true&vCenter=true&width=540&lines=Building+Secure+REST+APIs;Designing+Scalable+Backend+Systems;Writing+Clean+Maintainable+Code;Solving+Problems+with+DSA)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
+
+
 
 ---
 
